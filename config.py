@@ -1,0 +1,4 @@
+API_ID = ''
+API_HASH = ''
+PHONE = ''
+TWO_STEP_PASS = ''
